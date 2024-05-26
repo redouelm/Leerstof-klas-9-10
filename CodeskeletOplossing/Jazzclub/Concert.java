@@ -17,7 +17,7 @@ public class Concert {
 
     /**
      * Retourneert de datum van het concert
-     * ten behoeve van REQ0005
+     * ten behoeve van REQ0016
      * @return de datum van het concert
      */
     public LocalDate getDatum() {
